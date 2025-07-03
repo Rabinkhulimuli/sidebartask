@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { BsFolder } from "react-icons/bs";
 import { FaMinus, FaPlus } from "react-icons/fa";
 import TopSection from "./TopSection";
